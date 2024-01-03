@@ -92,7 +92,7 @@ Challenge | Score | Solution
 [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Itertools/itertools.combinations_with_replacement().py)
 [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Itertools/Compress%20the%20String!.py)
 [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Itertools/Iterables%20and%20Iterators.py)
-[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | 50 | [Solution]()
+[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | 50 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Itertools/Maximize%20It!.py)
 
 
 ### Collections
