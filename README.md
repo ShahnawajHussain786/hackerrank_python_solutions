@@ -29,6 +29,7 @@ Challenge | Score | Solution
 [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Basic%20Data%20Types/Lists.py)
 [Touples](https://www.hackerrank.com/challenges/python-tuples/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Basic%20Data%20Types/Touples.py)
 
+
 ### Strings
 
 Challenge | Score | Solution
@@ -48,6 +49,7 @@ Challenge | Score | Solution
 [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Strings/The%20Minion%20Game.py)
 [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Strings/Merge%20the%20Tools!.py)
 
+
 ### Sets
 
 Challenge | Score | Solution
@@ -66,6 +68,7 @@ Challenge | Score | Solution
 [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Sets/Check%20Subset.py)
 [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Sets/Check%20Strict%20Superset.py)
 
+
 ### Math
 
 Challenge | Score | Solution
@@ -78,6 +81,7 @@ Challenge | Score | Solution
 [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Math/Integers%20Come%20In%20All%20Sizes.py)
 [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Math/Triangle%20Quest.py)
 
+
 ### Itertools!
 
 Challenge | Score | Solution
@@ -89,6 +93,7 @@ Challenge | Score | Solution
 [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Itertools/Compress%20the%20String!.py)
 [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Itertools/Iterables%20and%20Iterators.py)
 [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | 50 | [Solution]()
+
 
 ### Collections
 
@@ -127,6 +132,7 @@ Challenge | Score | Solution
 [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Classes/Classes%20Dealing%20with%20Complex%20Numbers.py)
 [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Classes/Class%202%20-%20Find%20the%20Torsional%20Angle.py)
 
+
 ### Built-Ins
 
 Challenge | Score | Solution
@@ -146,6 +152,7 @@ Challenge | Score | Solution
 [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Python%20Functionals/Map%20and%20Lambda%20Function.py)
 [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Python%20Functionals/Validating%20Email%20Addresses%20With%20a%20Filter.py)
 [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Python%20Functionals/Reduce%20Function.py)
+
 
 ### Regex and Parsing
 
@@ -177,12 +184,14 @@ Challenge | Score | Solution
 [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/XML/XML%201%20-%20Find%20the%20Score.py)
 [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/XML/XML2%20-%20Find%20the%20Maximum%20Depth.py)
 
+
 ### Closure and Decorators
 
 Challenge | Score | Solution
 --- | --- | ---
 [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Closures%20and%20Decorators/Standardize%20Mobile%20Number%20Using%20Decorators.py)
 [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Closures%20and%20Decorators/Decorators%202%20-%20Name%20Directory.py)
+
 
 ### Numpy
 
@@ -203,6 +212,7 @@ Challenge | Score | Solution
 [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Numpy/Inner%20and%20Outer.py)
 [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Numpy/Polynomials.py)
 [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_python_solutions/blob/master/Python/Numpy/Linear%20Algebra.py)
+
 
 ### Debugging
 
